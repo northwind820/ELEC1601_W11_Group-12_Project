@@ -1,0 +1,2 @@
+The master.ino file is for the bluetooth sender, which is simply a bluetooth master board plugged onto arduino UNO board. <br>
+The slave.ino file is for the robot, which will be plugged on a bluetooth slave board and will receive characters sent from the master for manual controlling.
